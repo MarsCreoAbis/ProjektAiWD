@@ -12,6 +12,6 @@ https://www.kaggle.com/datasets/desalegngeb/students-exam-scores
 
 1. Czy istnieje korelacja między edukacją rodzica a wynikiem w tescie z pisania
 2. Czy istnieje korelacja między częstością uprawiania sportu a czasem poświęconym na naukę
-3. Czy wśród uczniów po kursie przygotowującym płeć różnicuje wyniki testów z matematyki
+3. Czy wśród uczniów po kursie przygotowującym płeć różnicuje wyniki testów z matematyki --> ale normalny nie wychodzi, więc wynik z matmy według mediany niski lub wysoki
 4. Czy istneije korelacja miedzy wynikiem testów z pisania a testów z czytania
 5. Czy liczba rodzeństwa różnicuje środek transportu
